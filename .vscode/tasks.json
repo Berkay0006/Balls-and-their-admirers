@@ -1,0 +1,7 @@
+ "args":
+    "'@compile_flags.txt'", 
+    "-lmsvcrt", 
+    "-lraylib",
+    "-lgdi32",
+    "-lwinmm",
+    "-L../raylib/lib",
